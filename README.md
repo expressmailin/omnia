@@ -35,12 +35,12 @@ We encourage everyone to help us improve Omnia by contributing to the project. C
 
 
 ## Omnia Community Members:
-<img src="docs/source/images/logos/delltech.jpg" height="50px" alt="Dell Technologies">
+<img src="docs/source/images/logos/delltech.jpg" height="80px" alt="Dell Technologies">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Intel_logo_%282020%2C_light_blue%29.svg" height="50px" alt="Intel Corporation"> 
 
-<img src="docs/source/images/logos/pisa.png" height="80px" alt="Universita di Pisa"> <img src="https://user-images.githubusercontent.com/83095575/117071024-64956c80-ace3-11eb-9d90-2dac7daef11c.png" height="80px" alt="Arizona State University"> <img src="https://images.squarespace-cdn.com/content/v1/660f1a48587dbb2769709a33/9ac5520f-a308-4751-80f4-415d07a23473/VIZIAS+Blue.png" height="60px" alt="Vizias">
+<img src="docs/source/images/logos/pisa.png" height="60px" alt="Universita di Pisa"> <img src="https://user-images.githubusercontent.com/83095575/117071024-64956c80-ace3-11eb-9d90-2dac7daef11c.png" height="50px" alt="Arizona State University"> <img src="https://images.squarespace-cdn.com/content/v1/660f1a48587dbb2769709a33/9ac5520f-a308-4751-80f4-415d07a23473/VIZIAS+Blue.png" height="50px" alt="Vizias">
 
-<img src="https://cdn.prod.website-files.com/5ab1342d0735aa53115fca62/5d00133d02bbf495113e8bca_Liqid-Composable-Infrastructure-Blue-Wave-Black-Logotype.svg" height="80px" alt="LIQID Inc."> <img src="https://user-images.githubusercontent.com/5414112/153955170-0a4b199a-54f0-42af-939c-03eac76881c0.png" height="80px" alt="Texas Tech University">
+<img src="https://cdn.prod.website-files.com/5ab1342d0735aa53115fca62/5d00133d02bbf495113e8bca_Liqid-Composable-Infrastructure-Blue-Wave-Black-Logotype.svg" height="50px" alt="LIQID Inc."> <img src="https://user-images.githubusercontent.com/5414112/153955170-0a4b199a-54f0-42af-939c-03eac76881c0.png" height="60px" alt="Texas Tech University">
 
 ## Contributors
 Our thanks go to everyone who makes Omnia possible ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
