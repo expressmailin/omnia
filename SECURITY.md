@@ -6,6 +6,7 @@ Omnia provides security support for Omnia 1.7. All users utilizing older version
 
 
 
+
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.7     | :white_check_mark: |
