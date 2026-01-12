@@ -1,4 +1,3 @@
-
 <img src="docs/source/images/omnia-logo-transparent.png" width="500px">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- DO NOT ADD A BADGE -->
